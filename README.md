@@ -9,7 +9,7 @@ Currently I am open to any opportunity especially in IT as Web Developer.
       <img src="https://img.shields.io/badge/Code-ExpressJS-lightgrey?&logo=express" />
     <img src="https://img.shields.io/badge/Code-NestJs-e0224e?&logo=nestjs" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://gpvc.arturio.dev/renoagisaputra" />
+    <!-- <img src="https://gpvc.arturio.dev/renoagisaputra" /> -->
 </p>
 
 ### Stats:
