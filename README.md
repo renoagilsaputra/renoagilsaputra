@@ -1,74 +1,88 @@
 ## Hi there 👋
 
-I am a Web Developer with a strong interest in building scalable, maintainable, and high-performance applications.  
-Currently, I am open to new opportunities, particularly in backend and full-stack development roles.
+Backend & AI Integration Engineer focused on building scalable systems, reliable APIs, and production-ready AI features.  
+Experienced in designing backend architectures, optimizing performance, and integrating AI into real-world applications.
+
+---
+
+## 🧠 Core Expertise
+
+- Backend Architecture (Monolith & Service-Oriented)
+- REST API Design & Integration
+- AI Integration (Chat, Image Generation, Prompt Engineering)
+- Performance Optimization & Caching Strategies
+- Semantic Search & Context Handling
+- System Reliability & Error Handling
 
 ---
 
 ## 🛠 Tech Stack
 
 <p>
-    <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white" />
     <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-REST-005571?logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tooling-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 1. Wiratek AI
-AI-based platform for chat and image generation integration.  
-- Implemented AI model integration and prompt handling  
-- Built scalable backend services and API orchestration  
-- Improved UX for AI interaction and response handling  
+### Wiratek AI
+Production-grade AI platform for chat and image generation  
+- Designed backend architecture for AI orchestration  
+- Implemented prompt pipelines and response handling  
+- Improved reliability for real-time AI interaction  
 
-### 2. Medical Voice AI
-Voice-enabled AI system for medical use cases.  
-- Developed backend and frontend architecture  
-- Implemented voice recording and transcription features  
-- Designed admin panel and chat interface improvements  
+### Medical Voice AI
+Voice-enabled AI system  
+- Built backend + frontend integration  
+- Implemented voice recording & transcription pipeline  
+- Developed admin panel and chat system  
 
-### 3. OT DA AI Assistant
-AI assistant focused on semantic understanding.  
-- Enhanced semantic cache for temporal queries (weekly, monthly, yearly)  
-- Optimized pattern matching and response accuracy  
-- Improved system performance for repeated queries  
-
----
-
-## 💼 Experience
-
-### Web Developer
-- Developed and maintained backend services using Laravel, Node.js, and FastAPI  
-- Designed RESTful APIs and handled third-party integrations  
-- Optimized application performance and database queries  
-- Collaborated with frontend teams to deliver end-to-end features  
-
-### AI Integration Engineer (Project-based)
-- Integrated AI services (chat, image generation) into applications  
-- Designed prompt handling and response pipelines  
-- Improved reliability and error handling in AI workflows  
+### OT DA AI Assistant
+Semantic-aware AI assistant  
+- Engineered semantic cache for temporal queries  
+- Reduced redundant processing  
+- Improved response accuracy  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Engineering Activity
 
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=renoagilsaputra&show_icons=true&hide_border=true&title_color=0A0A0A&icon_color=0A0A0A" />
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoagilsaputra&layout=compact&hide_border=true" height="170" />
+<p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=renoagilsaputra&theme=github-dark&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=renoagilsaputra&theme=github-light&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=renoagilsaputra&hide_border=true" />
+  </picture>
 </p>
 
 ---
 
-## 🤝 Connect with Me
+## 📊 GitHub Insights
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=renoagilsaputra&theme=github_dark" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=renoagilsaputra&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=renoagilsaputra&theme=github_dark" />
+</p>
+
+---
+
+## 🤝 Connect
 
 <p>
     <a href="https://www.instagram.com/renoagils/" target="_blank">
