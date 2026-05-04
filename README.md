@@ -1,39 +1,80 @@
-### Hi there 👋
-Currently I am open to any opportunity especially in IT as Web Developer. 
+## Hi there 👋
 
-### Tools:
-<p>
-    <img src="https://img.shields.io/badge/OS-Windows-brightgreen?&logo=windows" />
-    <img src="https://img.shields.io/badge/Code-Laravel-red?&logo=laravel" />
-    <img src="https://img.shields.io/badge/Code-Node.JS-success?&logo=node.js" />
-      <img src="https://img.shields.io/badge/Code-ExpressJS-lightgrey?&logo=express" />
-    <img src="https://img.shields.io/badge/Code-NestJs-e0224e?&logo=nestjs" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+I am a Web Developer with a strong interest in building scalable, maintainable, and high-performance applications.  
+Currently, I am open to new opportunities, particularly in backend and full-stack development roles.
 
-### Stats:
+---
+
+## 🛠 Tech Stack
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=renoagilsaputra&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoagilsaputra&layout=compact" height=180 />
+    <img src="https://img.shields.io/badge/OS-Windows-0078D6?logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Backend-Laravel-FF2D20?logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Express.js-000000?logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-NestJS-E0234E?logo=nestjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visualstudiocode&logoColor=white" />
 </p>
 
-### Let's connect!
+---
+
+## 🚀 Featured Projects
+
+### 1. Wiratek AI
+AI-based platform for chat and image generation integration.  
+- Implemented AI model integration and prompt handling  
+- Built scalable backend services and API orchestration  
+- Improved UX for AI interaction and response handling  
+
+### 2. Medical Voice AI
+Voice-enabled AI system for medical use cases.  
+- Developed backend and frontend architecture  
+- Implemented voice recording and transcription features  
+- Designed admin panel and chat interface improvements  
+
+### 3. OT DA AI Assistant
+AI assistant focused on semantic understanding.  
+- Enhanced semantic cache for temporal queries (weekly, monthly, yearly)  
+- Optimized pattern matching and response accuracy  
+- Improved system performance for repeated queries  
+
+---
+
+## 💼 Experience
+
+### Web Developer
+- Developed and maintained backend services using Laravel, Node.js, and FastAPI  
+- Designed RESTful APIs and handled third-party integrations  
+- Optimized application performance and database queries  
+- Collaborated with frontend teams to deliver end-to-end features  
+
+### AI Integration Engineer (Project-based)
+- Integrated AI services (chat, image generation) into applications  
+- Designed prompt handling and response pipelines  
+- Improved reliability and error handling in AI workflows  
+
+---
+
+## 📊 GitHub Stats
+
 <p>
-    <a href="https://www.instagram.com/renoagils/" target="blank"><img src="https://img.shields.io/badge/Instagram-%40renoagils-ff69b4?logo=instagram" /></a>
-    <a href="https://www.facebook.com/renoagil.saputra/" target="blank"><img src="https://img.shields.io/badge/Facebook-renoagilsaputra-blue?logo=facebook" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=renoagilsaputra&show_icons=true&hide_border=true&title_color=0A0A0A&icon_color=0A0A0A" />
 </p>
-<!--
-**renoagilsaputra/renoagilsaputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renoagilsaputra&layout=compact&hide_border=true" height="170" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🤝 Connect with Me
+
+<p>
+    <a href="https://www.instagram.com/renoagils/" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%40renoagils-E4405F?logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/renoagil.saputra/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-renoagilsaputra-1877F2?logo=facebook&logoColor=white" />
+    </a>
+</p>
